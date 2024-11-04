@@ -1,0 +1,14 @@
+{
+  "ignoredFilesOrFolders": [],
+  "openFiles": [
+    "restaurantApp/src/components/Home/index.js",
+    "restaurantApp/src/components/Header/index.js",
+    "restaurantApp/src/setupTests.js",
+    "restaurantApp/package.json",
+    "restaurantApp/.eslintignore",
+    "restaurantApp/.eslintrc",
+    "restaurantApp/src/App.js",
+    "restaurantApp/src/components/DishCategoryTab/index.js"
+  ],
+  "fileToBeOpened": "restaurantApp/README.md"
+}
